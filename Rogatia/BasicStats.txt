@@ -1,0 +1,19 @@
+Name: Rogatia
+Location: Caribbean
+Coordinates: 11.5° N, 53.5° W
+Population: 10,059,038 (2017)
+Area: 19,491.5901 km² (7525.745 mi²)
+Density: 516.071 people/km² (1336.617 people/mi²)
+Capital (and largest city): Trouvaille
+National language: English
+Other languages: French, Spanish, Portuguese, German, Icelandic, Greek, Japanese, Czech, Polish
+Currency: East Caribbean dollar
+Driving side: left
+Time zone(s): UTC -4
+Area code: (+1) 427/358
+ISO 3166 code: HC
+ccTLD: .hc
+
+####
+
+Taken from infobox at https://constantnoble.miraheze.org/wiki/Place:Rogatia
